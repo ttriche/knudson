@@ -1,10 +1,8 @@
 ---
 title: "knudson" 
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{knudson}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
+output: 
+  html_document:
+    keep_md: yes
 ---
 
 ## Revisiting Knudson's 2 Hit Hypothesis: A Lesson in Data Reproducibility

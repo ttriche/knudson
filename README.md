@@ -28,6 +28,10 @@ The vignette also serves as a reproducibility case study that attempts to recrea
     
     * `side`: Was the retinoblastoma unilateral (unilat) or bilateral (bilat)
     
+
+### notes as of 2025
+
+Added retinoblastoma.csv to inst/extdata/ ; added Makefile for docs, etc.
   
 ## Installation
 

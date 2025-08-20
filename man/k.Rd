@@ -4,7 +4,8 @@
 \name{k}
 \alias{k}
 \title{Retinoblastoma data used to formulate Knudson's 2-hit hypothesis}
-\format{A tibble with 48 rows and 8 variables:
+\format{
+A tibble with 48 rows and 8 variables:
 \describe{
   \item{case}{the case number}
   \item{hosp_numb}{the hospital id number of the patient}
@@ -14,7 +15,8 @@
   \item{l_tum}{the number of tumors in the left eye. * if unknown.}
   \item{family_hx}{Is there a family history of retinoblastoma? If so, lists who was affected.}
   \item{side}{Was the retinoblastoma unilateral (unilat) or bilateral (bilat)}
-}}
+}
+}
 \source{
 \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC389051/}
 }
