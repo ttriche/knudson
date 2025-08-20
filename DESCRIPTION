@@ -1,7 +1,7 @@
 Package: knudson
 Type: Package
 Title: Data from Table 1 of Knudson, 1971 (Two-Hit Hypothesis of Cancer)
-Version: 0.3.1
+Version: 0.3.2
 Author: Daniel Piqué
 Maintainer: Daniel Piqué <dpique1@gmail.com>
 Description: Provides data from Table 1 from Knudson (1971) <doi:10.1073/pnas.68.4.820>. This paper, entitled "Mutation and cancer: statistical study of retinoblastoma", provided the basis for the two-hit hypothesis of cancer. 

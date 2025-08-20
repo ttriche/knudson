@@ -1,5 +1,6 @@
 ---
-title: "knudson" 
+title: "Knudson's data"
+author: "Daniel Piqué <dpique1@gmail.com>"
 output: 
   html_document:
     keep_md: yes
